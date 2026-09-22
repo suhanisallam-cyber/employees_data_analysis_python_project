@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Employee_ID,Name,Age,Gender,Department,Salary,Experience,Joining_Date,City
 1001,Aarav,24,Male,IT,450000,1,6/15/2025,Bhopal
 1002,Priya,27,Female,HR,380000,2,3/10/2024,Indore
@@ -29,3 +30,36 @@ Employee_ID,Name,Age,Gender,Department,Salary,Experience,Joining_Date,City
 1028,Divya,31,Female,Sales,610000,7,12/16/2019,Indore
 1029,Raj,40,Male,Finance,900000,14,7/23/2012,Delhi
 1030,Shreya,26,Female,IT,500000,2,8/30/2024,Bhopal
+=======
+Employee_ID,Name,Age,Gender,Department,Salary,Experience,Joining_Date,City
+1001,Aarav,24,Male,IT,450000,1,6/15/2025,Bhopal
+1002,Priya,27,Female,HR,380000,2,3/10/2024,Indore
+1003,Rahul,31,Male,Finance,550000,5,7/20/2021,Bhopal
+1004,Sneha,29,Female,IT,480000,3,1/12/2023,Pune
+1005,Arjun,35,Male,Sales,620000,8,9/5/2018,Mumbai
+1006,Neha,26,Female,HR,400000,2,11/18/2024,Indore
+1007,Vikas,32,Male,IT,700000,7,4/22/2019,Bhopal
+1008,Ananya,28,Female,Finance,520000,4,8/14/2022,Delhi
+1009,Rohan,30,Male,Sales,580000,6,2/10/2020,Mumbai
+1010,Pooja,25,Female,IT,460000,2,6/25/2024,Bhopal
+1011,Karan,36,Male,Finance,750000,10,5/16/2016,Pune
+1012,Isha,29,Female,HR,430000,3,10/3/2023,Indore
+1013,Aditya,27,Male,IT,600000,5,1/20/2021,Delhi
+1014,Meera,33,Female,Sales,650000,9,7/11/2017,Bhopal
+1015,Nikhil,38,Male,IT,850000,12,3/19/2014,Mumbai
+1016,Kavya,24,Female,Finance,420000,1,1/8/2025,Pune
+1017,Sahil,31,Male,HR,470000,4,4/17/2022,Indore
+1018,Riya,26,Female,IT,510000,3,6/21/2023,Bhopal
+1019,Aman,34,Male,Sales,680000,8,11/12/2018,Delhi
+1020,Simran,28,Female,HR,450000,2,2/28/2024,Mumbai
+1021,Varun,30,Male,IT,720000,7,8/5/2019,Bhopal
+1022,Nandini,37,Female,Finance,800000,11,9/14/2015,Pune
+1023,Yash,25,Male,Sales,560000,4,12/1/2022,Indore
+1024,Tanya,32,Female,IT,620000,6,6/18/2020,Delhi
+1025,Mohit,29,Male,HR,490000,3,3/25/2023,Bhopal
+1026,Aditi,35,Female,Finance,670000,9,10/9/2017,Mumbai
+1027,Harsh,27,Male,IT,530000,5,5/13/2021,Pune
+1028,Divya,31,Female,Sales,610000,7,12/16/2019,Indore
+1029,Raj,40,Male,Finance,900000,14,7/23/2012,Delhi
+1030,Shreya,26,Female,IT,500000,2,8/30/2024,Bhopal
+>>>>>>> fb33cffc0c99096d9c725427570f09e4bc654afc
