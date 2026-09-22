@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Employee_ID,Name,Age,Gender,Department,Salary,Experience,Joining_Date,City
 1001,Aarav,24,Male,IT,450000,1,6/15/2025,Bhopal
 1002,Priya,27,Female,HR,380000,2,3/10/2024,Indore
@@ -30,7 +29,7 @@ Employee_ID,Name,Age,Gender,Department,Salary,Experience,Joining_Date,City
 1028,Divya,31,Female,Sales,610000,7,12/16/2019,Indore
 1029,Raj,40,Male,Finance,900000,14,7/23/2012,Delhi
 1030,Shreya,26,Female,IT,500000,2,8/30/2024,Bhopal
-=======
+,,,,,,,,
 Employee_ID,Name,Age,Gender,Department,Salary,Experience,Joining_Date,City
 1001,Aarav,24,Male,IT,450000,1,6/15/2025,Bhopal
 1002,Priya,27,Female,HR,380000,2,3/10/2024,Indore
@@ -62,4 +61,3 @@ Employee_ID,Name,Age,Gender,Department,Salary,Experience,Joining_Date,City
 1028,Divya,31,Female,Sales,610000,7,12/16/2019,Indore
 1029,Raj,40,Male,Finance,900000,14,7/23/2012,Delhi
 1030,Shreya,26,Female,IT,500000,2,8/30/2024,Bhopal
->>>>>>> fb33cffc0c99096d9c725427570f09e4bc654afc
